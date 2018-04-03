@@ -1,0 +1,6 @@
+<?php
+$nome = "dinei ";
+$sobrenome = "estou aki"; 
+
+echo $nome ." ".$sobrenome 
+?>
